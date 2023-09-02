@@ -1,2 +1,2 @@
-# shubham-salokhe.github.ai
+# harshchavhan.github.ai
 This is the AI|ML|DL portfolio of Shubham Salokhe 
