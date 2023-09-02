@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Learn all about big data\, analytics\, storage\, business intelligence\, machine learning\, and more with AWS experts.\n\nView latest agenda at https://aws.amazon.com/events/aws-innovate/apj/data#agenda \n\nLogin to the online conference on Aug 30 at https://innovate-apj.virtual.awsevents.com/ \n\nQuestions? Email us at aws-apj-marketing@amazon.com\n\n------------------------\nConference timings\n------------------------\nAustralia GMT+10 (AEST) 9.30am - 3.00pm\n\nNew Zealand GMT+12 (NZST) 11.30am - 5.00pm\n\nSingapore / Malaysia / Philippines GMT+8 (SGT/MYT/PHT) 7.30am - 1.00pm\n\nThailand / Vietnam GMT+7 (ICT) 6.30am - 12.00pm\n\nIndonesia GMT+7 (WIB) 06:30 - 12:00\n\nPakistan GMT+5 (PKT) 4.30am - 10.00am\n\nIndia GMT+5.30 (IST) 5.00am - 10.30am\n\nSri Lanka GMT+5.30 (SLT) 5.00am - 10.30am\n\nJapan GMT+9 (JST) 8.30am - 2.00pm\n\nKorea GMT+9 (KST) 8.30am - 2.00pm\n
+DTSTART:20230829T233000Z
+DTEND:20230830T050000Z
+LOCATION:https://innovate-apj.virtual.awsevents.com/ 
+SUMMARY;LANGUAGE=en-us:AWS Innovate - Data Edition
+END:VEVENT
+END:VCALENDAR
